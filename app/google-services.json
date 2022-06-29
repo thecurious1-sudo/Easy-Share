@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628078608415",
+    "project_id": "easy-share-63717",
+    "storage_bucket": "easy-share-63717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628078608415:android:36e8505da85c30b5b8952a",
+        "android_client_info": {
+          "package_name": "vaibhav.tech.easyshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628078608415-r2qmhs3sie5v3j69ik8brfkg23hjhhkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz6Gt2LK2KqvlPRlupUzBqEkSzXm0Uu48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628078608415-r2qmhs3sie5v3j69ik8brfkg23hjhhkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
